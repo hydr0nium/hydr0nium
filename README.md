@@ -1,16 +1,20 @@
-### Hi there 👋
+<div align="center"> 
+<img src="https://media0.giphy.com/media/8D8oTXFO5OR8czxTQA/giphy.gif?cid=ecf05e47lvfu7fdkrznp2g9ffj5rum435g28vnf05251b43e&rid=giphy.gif&ct=s" width="200" height="200" frameBorder="0">
+</div>
 
-<!--
-**hydr0nium/hydr0nium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=hydr0nium&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=hydr0nium&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=hydr0nium&show_icons=true" />
+</picture>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Badges:
+<img src="https://media.badgr.com/uploads/badges/assertion-NA0I_PrGTHG66_DXGkUK8A.png" width=100px alt=""/>
