@@ -17,4 +17,5 @@
 </div>
 
 ## Badges:
-<img src="https://media.badgr.com/uploads/badges/assertion-NA0I_PrGTHG66_DXGkUK8A.png" width=100px alt=""/>
+
+<img src="https://media.badgr.com/uploads/badges/assertion-NA0I_PrGTHG66_DXGkUK8A.png" width=100px alt=""/><img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width=100px alt=""/>
