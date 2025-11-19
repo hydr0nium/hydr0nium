@@ -23,4 +23,5 @@
   <img src="https://academy.hackthebox.com/storage/badges/our-favorite-seabird.png" width=100px alt=""/>
   <img src="https://media.badgr.com/uploads/badges/assertion-gc0aKTSVTM6z3SzNA1RJhQ.png" width=100px alt=""/>
   <img src="https://media.badgr.com/uploads/badges/assertion-CxzrC9s6RO2hZ1R1KPTCAw.png" width=100px alt=""/>
+  <img src="https://academy.hackthebox.com/storage/badges/the-protector-of-security.png" width=100px alt=""/>
 </div>
